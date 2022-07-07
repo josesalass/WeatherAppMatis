@@ -34,12 +34,4 @@ Se solicita que su aplicación permita:
 - **Puntaje adicional** si la App permite obtener la geolocalización desde el GPS del dispositivo para consultar por la información del clima de la ubicación del usuario.
 
 
-La aplicación deberá ser desarrollada en Github. Para crear grupos de trabajo y crear los repositorios debe entrar al siguiente link: <https://classroom.github.com/a/g8jK9opf>
-
-
-- Uso de API de servicios web
-- Uso de JSON
-- Interfaz Gráfica de la aplicación
-
-
 
